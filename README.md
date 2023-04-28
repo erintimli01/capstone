@@ -22,3 +22,4 @@
 * 1030-12 video on react-router-dom, building shop, adding shopping cart
 * 12-1 lunch
 * 1-2 finish video on react-router-dom, building shop, adding cart
+* 2-  read ahead on lessons for firebase
