@@ -23,6 +23,7 @@ _Users will be able to browse through comic books for sale from a comic book dea
 * Add multiple pictures in details
 * Search and search by function
 * Create account
+* Authentication
 * Add to cart, remove from inventory
 * Payment system, paypal API?
 * Deploy Site
@@ -30,6 +31,7 @@ _Users will be able to browse through comic books for sale from a comic book dea
 ### What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
 * React
 * React-router-dom
+* Firebase
 * Paypal API
 * Vercel or Hostinger to deploy
 
