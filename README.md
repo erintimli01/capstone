@@ -20,3 +20,5 @@
 * 10-1015 break
 * 1015-1030 video about building store in React
 * 1030-12 video on react-router-dom, building shop, adding shopping cart
+* 12-1 lunch
+* 1-2 finish video on react-router-dom, building shop, adding cart
