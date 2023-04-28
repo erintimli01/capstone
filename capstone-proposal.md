@@ -28,10 +28,5 @@ _Users will be able to browse through comic books for sale from a vendor and mak
 ### What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
 * 
 
-### Research and Planning Log
-#### Friday 4/28
-* 8-9 preliminary research and setting up 
-* 9
-
 
 #### Is there anything else you'd like your instructor to know?
