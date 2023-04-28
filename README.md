@@ -15,3 +15,5 @@
 #### Friday 4/28
 * 8-9 preliminary research and setting up 
 * 9-910 add research planning and planning log
+* 915 read articles about using c# with react
+
