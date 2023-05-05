@@ -25,5 +25,6 @@
 * 2-5  read ahead on lessons for firebase
 
 #### Friday 5/5
-* 9 - read ahead on lessons for React with APIs
+* 8-12 read ahead on lessons for React with APIs
+* 12- react context
 
