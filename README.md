@@ -26,5 +26,5 @@
 
 #### Friday 5/5
 * 8-12 read ahead on lessons for React with APIs
-* 12- react context
+* 12-230 react context
 
