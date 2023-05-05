@@ -27,5 +27,5 @@
 #### Friday 5/5
 * 8-12 read ahead on lessons for React with APIs
 * 12-230 react context
-*230- video on files to firebase in react
+*230-330 video on files to firebase in react
 
