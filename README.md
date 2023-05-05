@@ -25,7 +25,8 @@
 * 2-5  read ahead on lessons for firebase
 
 #### Friday 5/5
+_<sub><sup>Extreme internet connection issues<sup><sub>_
 * 8-12 read ahead on lessons for React with APIs
 * 12-230 react context
-*230-330 video on files to firebase in react
-
+* 230-330 video on files to firebase in react
+* 330-445 another building ecommerce video--using context
