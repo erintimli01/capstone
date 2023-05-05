@@ -23,3 +23,7 @@
 * 12-1 lunch
 * 1-2 finish video on react-router-dom, building shop, adding cart
 * 2-5  read ahead on lessons for firebase
+
+#### Friday 5/5
+* 9 - read ahead on lessons for React with APIs
+
